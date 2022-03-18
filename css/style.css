@@ -29,6 +29,3 @@ main{
 hr{
     color: rgb(221, 221, 221);
 }
-.container > div{
-    width: 60%;
-}
